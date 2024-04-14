@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+20&display=swap');
+:root {
+  --font-family: 'Jersey 20', sans-serif;
+
+  --gradient-text: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+  --gradient-bar: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+  
+  --color-bg:linear-gradient(to right, #434343 0%, black 100%);
+  --color-footer : linear-gradient(to right, #434343 0%, black 100%);
+  --color-blog: #042c54;
+  --color-text: #81AFDD;
+  --color-subtext: #FF8A71;
+}
